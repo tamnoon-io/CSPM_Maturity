@@ -17,4 +17,4 @@ While a CSPM maturity model is most effective when integrated across all cloud e
 
 The first step of your journey does not have to be a large change of your CSPM process or toolset. Fortunately, each step forward will make a difference in reducing cloud risk and making your cloud journey more secure. 
 
-This framework should be a starting point, and if you need any assistance - Tamnoon is here to help.
+This [framework](https://github.com/tamnoon-io/CSPM_Maturity/blob/main/CSPM%20Maturity%20-%20CSPM%20Maturity.csv) should be a starting point, and if you need any assistance - Tamnoon is here to help.
