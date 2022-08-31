@@ -1,0 +1,14 @@
+,Ad - Hoc,Developing,Reactive,Proactive,Optimized
+CSPM Configuration and Customization of rules and policies,Not Happening,Companies using out of box or vanila policies,Manual and ad hoc changes to rules and policies occur to reduce false positives or apply exclusions,"Policies are defined and well documented, exclusions and rule changes are taking place when needed",Policies are defined and well documented and tied to business objectives. Ongoing process of false positives reduction and new policies review and changes is proactively managed
+Process - At which phase issues identified,Cloud Security Posture assessment is not happening. Some adhoc and manual check may happen as part of testing and security checks,Post Deployment Security Review,Security Review Pre Deployment is manual,Mostly Automated Security Assessment pre and post deployment,Security is “baked into” the cloud deployments and there is a loop back from pre to post porduction
+Integration into Process and other  security/IT tools,Not Integrated into tools and process of security/cloud/engineering teams,Manual process of moving CSPM finidings into operational systems and distributing over to security/cloud/engineering teams,Semi - Automated process of CSPM finidings creation in operational systems and distributing over to security/cloud/engineering teams,Automated process of CSPM finidings creation in operational systems and distributing over to security/cloud/engineering teams,Robust integrations between CSPM and other security/cloud/engineering tools to fully support the infrastructure posture management process
+Cloud Security Maturity,,,,,
+Prioritization of Misconfiguration,Chaotic Prioritization,Escalation based prioritization,Prioritization of risks defined but manual,Prioritization of risks is mostly automated and is base on great level of enrichment data,"Prioritization of risks is fully automated and is taking into consideration various layer of enrichment such as exposures, vulnerabilities, data classification etc."
+Remediation ,Ad Hoc and Manual,Little or no Automation,Automation of the remediation cycle where possible.,Full Automation of the remediation cycle,Full Automation of the remediation and prevention based on feedback loop between pre/post production
+KPI and Success Measurement,Success is not measured,Measurement is difficult,Posture Management KPIs are measured,Security benefits are measured,Security benefits are measured and improved year over year
+,,,,,
+,Ad - Hoc,,,,
+,Developing,,,,
+,Reactive,,,,
+,Proactive,,,,
+,Optimized,,,,
