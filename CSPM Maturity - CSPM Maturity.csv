@@ -7,8 +7,3 @@ Prioritization of Misconfiguration,Chaotic Prioritization,Escalation based prior
 Remediation ,Ad Hoc and Manual,Little or no Automation,Automation of the remediation cycle where possible.,Full Automation of the remediation cycle,Full Automation of the remediation and prevention based on feedback loop between pre/post production
 KPI and Success Measurement,Success is not measured,Measurement is difficult,Posture Management KPIs are measured,Security benefits are measured,Security benefits are measured and improved year over year
 ,,,,,
-,Ad - Hoc,,,,
-,Developing,,,,
-,Reactive,,,,
-,Proactive,,,,
-,Optimized,,,,
